@@ -1,9 +1,12 @@
 # Flame E-Wallet: Your Digital Wallet for a Brighter Future
-Flame E-Wallet is a secure and user-friendly digital wallet designed to simplify your financial transactions. With a focus on security, convenience, and a seamless user experience, Flame E-Wallet empowers you to manage your finances effortlessly.
+
+![image](https://github.com/user-attachments/assets/e290ecf4-36fb-4031-8772-6e93a2f4af28)
+
+Flame E-Wallet is a secure and user-friendly digital wallet designed to simplify financial transactions. With a focus on security, convenience, and a seamless user experience, It empowers you to manage your finances effortlessly.
 
 ## Key Features:
 - Secure Authentication: Robust authentication mechanisms, including OTP-less login, to safeguard your account.
-- Intuitive Dashboard: A clear and concise dashboard providing real-time insights into your balance and recent transactions.
+- Intuitive Dashboard: A clear, concise dashboard providing real-time insights into your balance and recent transactions.
 - Seamless Money Transfers: Effortlessly transfer funds to friends, family, or merchants.
 - Secure Payment Integration: Integrate with trusted payment gateways like Razorpay for secure and efficient transactions.
 - Mobile Wallet Integration: Link your mobile wallet for quick and convenient payments.
